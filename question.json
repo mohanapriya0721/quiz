@@ -1,0 +1,20 @@
+[   
+    {
+        "Id": 1,
+        "Question": "What is the capital of France ?",
+        "Options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "CorrectOption": "Paris"
+    },
+    {
+        "Id": 2,
+        "Question": "Which planet is known as the Red planet ?",
+        "Options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "CorrectOption": "Mars"
+    },
+    {
+        "Id": 3,
+        "Question": "Who wrote 'Romeo and Juliet' ?",
+        "Options": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Leo Tolstoy"],
+        "CorrectOption": "William Shakespeare"
+    }
+]
